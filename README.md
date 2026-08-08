@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Azel
+# Hi, I'm Azel 👋
 
-### Senior Product Designer who ships the build too. Figma to SwiftUI, no handoff in between.
+📍 **Princeton, NJ** | 🎨 **Senior Product Designer** | 🛠 **Figma to SwiftUI, no handoff**
 
 <p>
   <a href="https://azelamaechi.com"><img src="https://img.shields.io/badge/Portfolio-azelamaechi.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
@@ -14,51 +14,42 @@
   -->
 </p>
 
----
+Now building **Falda Studio**, designing end-to-end for early-stage founders in AI, fintech, security and health.
 
-🎯 Senior Product Designer running **Falda Studio**<br />
-📍 Based in Princeton, New Jersey<br />
-📈 Eight years shipping enterprise B2B and startup consumer products in fintech, reinsurance, security and health<br />
-🏗 Currently designing end-to-end for early-stage SaaS founders in AI, fintech, security and health<br />
 🎨 Built the GC Design System from zero at Marsh McLennan. Five application teams run on it<br />
 📱 Ship native iOS and macOS apps, designed in Figma and built in SwiftUI<br />
 🔭 Open to fully remote roles where design works close to engineering<br />
 ⚽ Off the clock: soccer, filmmaking and photography
 
-## 🛠 What I'm Building
+## 🛠 Current Projects
 
-Everything here ships under **Falda Studio**, a solo design and development studio. Products are
-designed and built end to end by me, from interface to architecture to shipping. Apple frameworks
-wherever they'll do the job, iCloud sync, dark interfaces, keyboard-first on the Mac. These repos
-are private for now, but I'm happy to walk through any of them.
+Everything here ships under **Falda Studio**, a solo design and development studio. Designed and
+built end to end by me, from interface to architecture to shipping. These repos are private for
+now, but I'm happy to walk through any of them.
 
 ### 📱 iOS
 
-| | |
-|---|---|
-| **Anchor** | A health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. Every card reorders, resizes and retitles. |
-| **Ladder** | Voice-first tasks, lists and habits for iPhone and iPad. Talk to it and it files what you said. |
-| **Langkey** | A custom keyboard that translates what you type, inside any app, without leaving it. |
+🩺 **Anchor** - a health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. Every card reorders, resizes and retitles.
+
+🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
+
+⌨️ **Langkey** - a custom keyboard that translates what you type, inside any app, without leaving it.
 
 ### 💻 macOS
 
-| | |
-|---|---|
-| **Pixel Preview** | A keyboard-driven image viewer. Filmstrip, split view, full EXIF, and 18 formats including camera RAW. |
-| **Entraîne** | A speaking practice tool, built as a design and engineering exercise in transcription and on-device ML. |
+🖼 **Pixel Preview** - a keyboard-driven image viewer. Filmstrip, split view, full EXIF, and 18 formats including camera RAW.
+
+🗣 **Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill the parts that don't land yet.
 
 ### 🖥 Multi-platform
 
-| | |
-|---|---|
-| **Exhibit** | Eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, immigration-draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase. |
+🎛 **Exhibit** - eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, CRS draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
 
 ### 🌐 Web
 
-| | |
-|---|---|
-| **azelamaechi.com** | My portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic. |
-| **Falda Studio site** | The studio's own site and marketing surface. |
+🌐 **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
+
+🏢 **Falda Studio** - the studio's own site, running on Framer for now.
 
 ## 🧰 Stack
 
@@ -87,36 +78,33 @@ are private for now, but I'm happy to walk through any of them.
 
 ## 💭 Philosophy
 
-**Design that can't be built isn't finished.** I'd rather write the SwiftUI than hand off a spec and hope.
+🎯 **Design sits in the intersection.** Business needs, user needs, technical constraints. Design's job is to find the point where all three hold at once, so the business makes money, people get something they actually want to use, and the team can genuinely build it. Everybody wins or nobody does.
 
-**A design system earns its keep or it goes.** GC got adopted by five teams because it made their work faster, not because anyone mandated it.
+🔨 **I build what I need.** Most of these projects started as a problem in my own week. I design the fix, then I build it.
 
-**Accessibility is part of the craft.** Not a checklist you run at the end.
+📐 **Design that can't be built isn't finished.** I'd rather write the SwiftUI myself than hand off a spec and hope.
 
-**Storytelling, rhythm, and visuals that leave a mark.** Same instinct whether it's an interface or a cinematic video.
+🌙 **Dark mode is not optional.** Every app, every site, every time. Easier on the eyes and I'm openly biased about it.
 
 ## 🤝 Connect
 
-| | |
-|---|---|
-| 🌐 Portfolio | [azelamaechi.com](https://azelamaechi.com) |
-| 💼 LinkedIn | [azelamaechi](https://www.linkedin.com/in/azelamaechi) |
-| 📄 Résumé | [PDF](https://drive.google.com/file/d/180dkXb99O3zTsQvyE5GHrqcSQ1TyZ9m2/view?usp=sharing) |
-| ✉️ Email | [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com) |
+🌐 Portfolio - [azelamaechi.com](https://azelamaechi.com)
+
+💼 LinkedIn - [azelamaechi](https://www.linkedin.com/in/azelamaechi)
+
+📄 Résumé - [PDF](https://drive.google.com/file/d/180dkXb99O3zTsQvyE5GHrqcSQ1TyZ9m2/view?usp=sharing)
+
+✉️ Email - [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com)
 
 <details>
 <summary>🎲 <b>Random facts</b></summary>
 
 <br />
 
-🛢 I studied **Petroleum Engineering** at Afe Babalola University before finding my way into product design.
+🛢 I'm a **petroleum engineering graduate**. That's what I did before finding my way into the world of product design.
 
-⚽ I'll watch almost any football match, and I have opinions about all of them.
+🎬 Filmmaking and photography are the other half of my creative life. Design and tech is the digital side. This one is visual: video, sound, feeling, emotion. Same instinct, different output.
 
-🎬 Filmmaking and photography are the other half of the hobby. Same eye, different output.
-
-🧪 My side projects are really design plus engineering exercises. AI, transcription and on-device ML are the current rabbit holes.
-
-📵 Almost everything I build has a dark interface and no third-party dependencies. Both started as constraints and became preferences.
+🌗 I will turn on dark mode before I do anything else in a new app.
 
 </details>
