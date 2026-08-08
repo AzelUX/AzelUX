@@ -1,6 +1,6 @@
 # Hi, I'm Azel 👋
 
-**Princeton, NJ** | **Senior Product Designer** | **Figma to SwiftUI, no handoff**
+**Senior Product Designer** | **Figma to SwiftUI, no handoff**
 
 <p>
   <a href="https://azelamaechi.com"><img src="https://img.shields.io/badge/Portfolio-azelamaechi.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
