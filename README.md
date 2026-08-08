@@ -5,7 +5,7 @@
 <p>
   <a href="https://azelamaechi.com"><img src="https://img.shields.io/badge/Portfolio-azelamaechi.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/azelamaechi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="docs/AzelAmaechiResume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/AzelUX/AzelUX/blob/main/docs/AzelAmaechiResume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="mailto:amaechiazel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- TODO Azel: fill in the handle, then delete the surrounding comment markers to switch these on -->
   <!--
@@ -14,7 +14,7 @@
   -->
 </p>
 
-Now building **Falda Studio**, designing end-to-end for early-stage founders in AI, fintech, security and health.
+Now building **Falda**, designing end-to-end for early-stage founders in AI, fintech, security and health.
 
 🎨 Built the GC Design System from zero at Marsh McLennan. Five application teams run on it<br />
 📱 Ship native iOS and macOS apps, designed in Figma and built in SwiftUI<br />
@@ -23,7 +23,7 @@ Now building **Falda Studio**, designing end-to-end for early-stage founders in 
 
 ## Current Projects
 
-Everything here ships under **Falda Studio**, a solo design and development studio. Designed and
+Everything here ships under **Falda**, a solo design and development studio. Designed and
 built end to end by me, from interface to architecture to shipping. These repos are private for
 now, but I'm happy to walk through any of them.
 
@@ -49,7 +49,7 @@ now, but I'm happy to walk through any of them.
 
 🌐 **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
 
-🏢 **Falda Studio** - the studio's own site, running on Framer for now.
+🏢 **Falda** - the studio's own site, running on Framer for now.
 
 ## Stack
 
@@ -79,8 +79,8 @@ now, but I'm happy to walk through any of them.
 ## Philosophy
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/philosophy-venn-dark.svg" />
-  <img align="right" width="320" src="docs/philosophy-venn-light.svg" alt="Venn diagram with design at the overlap of business needs, user needs and technical constraints" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AzelUX/AzelUX/main/docs/philosophy-venn-dark.svg" />
+  <img align="right" width="240" src="https://raw.githubusercontent.com/AzelUX/AzelUX/main/docs/philosophy-venn-light.svg" alt="Venn diagram with design at the overlap of business needs, user needs and technical constraints" />
 </picture>
 
 **Design sits in the intersection.** Business needs, user needs, technical constraints. Design's job is to find the point where all three hold at once, so the business makes money, people get something they actually want to use, and the team can genuinely build it. Everybody wins at the end of the day.
@@ -95,7 +95,7 @@ now, but I'm happy to walk through any of them.
 
 - Portfolio - [azelamaechi.com](https://azelamaechi.com)
 - LinkedIn - [azelamaechi](https://www.linkedin.com/in/azelamaechi)
-- Résumé - [PDF](docs/AzelAmaechiResume.pdf)
+- Résumé - [view](https://github.com/AzelUX/AzelUX/blob/main/docs/AzelAmaechiResume.pdf) or [download](https://raw.githubusercontent.com/AzelUX/AzelUX/main/docs/AzelAmaechiResume.pdf)
 - Email - [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com)
 
 <details>
