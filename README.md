@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Azel</h1>
 
-<h3 align="center">Senior Product Designer who ships the build too — Figma to SwiftUI, no handoff in between</h3>
+<h3 align="center">Senior Product Designer who ships the build too. Figma to SwiftUI, no handoff in between.</h3>
 
 <p align="center">
   <a href="https://azelamaechi.com"><img src="https://img.shields.io/badge/Portfolio-azelamaechi.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
@@ -16,28 +16,26 @@
 
 ---
 
-Senior Product Designer at **Falda**, based in Princeton, NJ. Eight years shipping enterprise B2B
-and startup consumer products across fintech, reinsurance, security and health. I lead design for
-emerging startups and enterprise applications, and I maintain the design systems underneath them.
-
-- 🏗 Currently designing end-to-end for early-stage SaaS founders in AI, fintech, security and health
-- 🎨 Built the **GC Design System** from zero at Marsh McLennan — Figma and Storybook on MUI, adopted by 5 application teams, 60% faster project starts
-- 📱 Ship native iOS and macOS apps on the side, designed in Figma and built in SwiftUI
-- ♿️ Led WCAG 2.2 AA compliance across seven enterprise applications
-- 🔭 Looking for fully remote roles where design works close to engineering, on AI-native and B2B SaaS products
-- ⚽️ Off the clock: soccer, filmmaking and photography
+🎯 Senior Product Designer running **Falda Studio**<br />
+📍 Based in Princeton, New Jersey<br />
+📈 Eight years shipping enterprise B2B and startup consumer products in fintech, reinsurance, security and health<br />
+🏗 Currently designing end-to-end for early-stage SaaS founders in AI, fintech, security and health<br />
+🎨 Built the GC Design System from zero at Marsh McLennan. Five application teams run on it<br />
+📱 Ship native iOS and macOS apps, designed in Figma and built in SwiftUI<br />
+🔭 Open to fully remote roles where design works close to engineering<br />
+⚽ Off the clock: soccer, filmmaking and photography
 
 ## 🛠 What I'm Building
 
-Everything below ships under **Falda Studio**. Products are designed and built solo — interface,
-architecture, and shipping. Apple frameworks wherever they'll do the job, iCloud sync, dark
-interfaces, keyboard-first on the Mac. These repos are private for now; happy to walk through any
-of them.
+Everything below ships under **Falda Studio**. Products are designed and built solo, from interface
+to architecture to shipping. Apple frameworks wherever they'll do the job, iCloud sync, dark
+interfaces, keyboard-first on the Mac. These repos are private for now, but I'm happy to walk
+through any of them.
 
 | | |
 |---|---|
-| **Falda Studio** | A solo design and development studio — end-to-end product design and build for early-stage founders, plus the apps below. |
-| **Exhibit** | Eight unrelated tools in one SwiftUI app — timer, playlist tracker, walk planner, reading log, immigration-draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from one codebase. |
+| **Falda Studio** | A solo design and development studio. End-to-end product design and build for early-stage founders, plus the apps below. |
+| **Exhibit** | Eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, immigration-draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from one codebase. |
 | **Pixel Preview** | A keyboard-driven image viewer for macOS. Filmstrip, split view, full EXIF, 18 formats including camera RAW. |
 | **Anchor** | An iOS health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. |
 | **Ladder** | Voice-first tasks, lists and habits for iPhone and iPad. |
@@ -71,4 +69,3 @@ of them.
 <p align="center">
   <a href="mailto:amaechiazel@gmail.com"><b>amaechiazel@gmail.com</b></a> · <a href="https://azelamaechi.com">azelamaechi.com</a>
 </p>
-
