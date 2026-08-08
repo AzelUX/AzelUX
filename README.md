@@ -5,7 +5,7 @@
 <p>
   <a href="https://azelamaechi.com"><img src="https://img.shields.io/badge/Portfolio-azelamaechi.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/azelamaechi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/AzelUX/AzelUX/blob/main/docs/AzelAmaechiResume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://github.com/AzelUX/AzelUX/blob/main/docs/AzelAmaechiResume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="mailto:amaechiazel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- TODO Azel: fill in the handle, then delete the surrounding comment markers to switch these on -->
   <!--
@@ -23,9 +23,10 @@ Now building **Falda**, designing end-to-end for early-stage founders in AI, fin
 
 ## Current Projects
 
-Everything here ships under **Falda**, a solo design and development studio. Designed and
-built end to end by me, from interface to architecture to shipping. These repos are private for
-now, but I'm happy to walk through any of them.
+Everything here ships under **Falda**, a solo design and development studio. Designed and built end
+to end by me, from interface to architecture to shipping. I design it in Figma, then build it with
+SwiftUI, Next.js and Expo. These repos are private for now, but I'm happy to walk through any of
+them.
 
 ### iOS
 
@@ -95,7 +96,7 @@ now, but I'm happy to walk through any of them.
 
 - Portfolio - [azelamaechi.com](https://azelamaechi.com)
 - LinkedIn - [azelamaechi](https://www.linkedin.com/in/azelamaechi)
-- Résumé - [view](https://github.com/AzelUX/AzelUX/blob/main/docs/AzelAmaechiResume.pdf) or [download](https://raw.githubusercontent.com/AzelUX/AzelUX/main/docs/AzelAmaechiResume.pdf)
+- Resume - [view](https://github.com/AzelUX/AzelUX/blob/main/docs/AzelAmaechiResume.pdf)
 - Email - [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com)
 
 <details>
