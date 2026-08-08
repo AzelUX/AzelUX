@@ -30,11 +30,11 @@ them.
 
 ### iOS
 
-🩺 **Anchor** - a health dashboard you lay out yourself, setting goals, reading steps, workouts, nutrition and sleep synced from and to Apple Health.
+🩺 **Anchor** - a health dashboard for setting goals, reading steps, tracking workouts, nutrition and sleep all synced with Apple Health.
 
 🪜 **Ladder** - voice first tasks, lists and habits. Talk to it and it files what you said.
 
-⌨️ **Langkey** - a custom language keyboard that translates what you type, inside any app, without leaving it.
+⌨️ **Langkey** - a language keyboard that translates what you type, inside any app, without leaving it.
 
 ### macOS
 
@@ -44,7 +44,7 @@ them.
 
 ### Multi-platform
 
-🎛 **Exhibit** - seperate tools in one SwiftUI app: Timer, YouTube playlist tracker, Walk weather planner, Book reading log, CRS draw dashboard and a face identifying photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
+🎛 **Exhibit** - a suite of tools in one SwiftUI app: Timer, YouTube playlist tracker, Walk weather planner, Book reading log, CRS draw dashboard and a face identifying photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
 
 ### Web
 
