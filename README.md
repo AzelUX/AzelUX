@@ -16,7 +16,7 @@
 
 ---
 
-Senior Product Designer at **Falda**, based in Princeton, NJ. Seven years shipping enterprise B2B
+Senior Product Designer at **Falda**, based in Princeton, NJ. Eight years shipping enterprise B2B
 and startup consumer products across fintech, reinsurance, security and health. I lead design for
 emerging startups and enterprise applications, and I maintain the design systems underneath them.
 
@@ -27,14 +27,16 @@ emerging startups and enterprise applications, and I maintain the design systems
 - 🔭 Looking for fully remote roles where design works close to engineering, on AI-native and B2B SaaS products
 - ⚽️ Off the clock: soccer, filmmaking and photography
 
-## 🛠 What I Build
+## 🛠 What I'm Building
 
-Native Apple apps, designed and built solo — interface, architecture, and shipping. Apple
-frameworks wherever they'll do the job, iCloud sync, dark interfaces, keyboard-first on the Mac.
-These repos are private for now; happy to walk through any of them.
+Everything below ships under **Falda Studio**. Products are designed and built solo — interface,
+architecture, and shipping. Apple frameworks wherever they'll do the job, iCloud sync, dark
+interfaces, keyboard-first on the Mac. These repos are private for now; happy to walk through any
+of them.
 
 | | |
 |---|---|
+| **Falda Studio** | A solo design and development studio — end-to-end product design and build for early-stage founders, plus the apps below. |
 | **Exhibit** | Eight unrelated tools in one SwiftUI app — timer, playlist tracker, walk planner, reading log, immigration-draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from one codebase. |
 | **Pixel Preview** | A keyboard-driven image viewer for macOS. Filmstrip, split view, full EXIF, 18 formats including camera RAW. |
 | **Anchor** | An iOS health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. |
@@ -48,7 +50,7 @@ These repos are private for now; happy to walk through any of them.
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
-  <img src="https://img.shields.io/badge/FigJam-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="FigJam" />
+  <img src="https://img.shields.io/badge/Paper-1A1A1A?style=flat-square&logoColor=white" alt="Paper" />
   <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" alt="Webflow" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
 </p>
@@ -58,6 +60,7 @@ These repos are private for now; happy to walk through any of them.
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
