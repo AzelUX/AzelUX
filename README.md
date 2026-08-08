@@ -30,27 +30,23 @@ them.
 
 ### iOS
 
-🩺 **Anchor** - a health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. Every card reorders, resizes and retitles.
-
-🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
-
-⌨️ **Langkey** - a custom keyboard that translates what you type, inside any app, without leaving it.
+🩺 **Anchor** - a health dashboard you lay out yourself, setting goals, reading steps, workouts, nutrition and sleep synced from and to Apple Health.
+🪜 **Ladder** - voice first tasks, lists and habits. Talk to it and it files what you said.
+⌨️ **Langkey** - a custom language keyboard that translates what you type, inside any app, without leaving it.
 
 ### macOS
 
-🖼 **Pixel Preview** - a keyboard-driven image viewer. Filmstrip, split view, full EXIF, and 18 formats including camera RAW.
-
-🗣 **Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill the parts that don't land yet.
+🖼 **Pixel Preview** - a native image viewer. filmstrip, split view, full EXIF, and 18 formats including camera RAW.
+🗣 **Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill till it lands.
 
 ### Multi-platform
 
-🎛 **Exhibit** - eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, CRS draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
+🎛 **Exhibit** - seperate tools in one SwiftUI app: Timer, YouTube playlist tracker, Walk weather planner, Book reading log, CRS draw dashboard and a face identifying photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
 
 ### Web
 
 🌐 **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
-
-🏢 **Falda** - the studio's own site, running on Framer for now.
+🏢 **Falda** - the studio's own site, currently running in Framer.
 
 ## Stack
 
@@ -106,6 +102,6 @@ them.
 
 🛢 I'm a **petroleum engineering graduate**. That's what I did before finding my way into the world of product design.
 
-🎬 Filmmaking and photography are the other half of my creative life. Design and tech is the digital side. This one is visual: video, sound, feeling, emotion. Same instinct, different output.
+🎬 Filmmaking and photography are the other half of my creative life. Design and tech is the digital side. This one is visual: video, sound, story, emotion. Same instinct, different output.
 
 </details>
