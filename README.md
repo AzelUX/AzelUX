@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Azel</h1>
+<h1 align="center">👋 Hi, I'm Ael</h1>
 
 <h3 align="center">Senior Product Designer who ships the build too — Figma to SwiftUI, no handoff in between</h3>
 
