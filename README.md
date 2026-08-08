@@ -65,24 +65,6 @@ These repos are private for now; happy to walk through any of them.
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**Practice** — Design systems · Accessibility (WCAG 2.2 AA) · User research · Prototyping · A/B testing · Design-to-code handoff
-
-## 💼 Where I've Worked
-
-| | |
-|---|---|
-| **Falda** · 2025 — now | Senior Product Designer. Dashboards, onboarding flows, marketing sites and design system foundations for early-stage SaaS founders. |
-| **Marsh McLennan** · 2023 — 2025 | Senior Product Designer across 7 enterprise applications in reinsurance, risk and finance. Built the GC Design System from zero; shipped the BSA Tracking Tool concept-to-production in under 2 months, now used daily by 200+ internal users. |
-| **Moment Studio** · 2022 — 2023 | Product Designer for B2B fintech and SaaS clients — engagement up 40%, mobile usability up 35%. |
-| **ALAT by Wema** · 2019 — 2021 | Product Designer on an iOS mobile banking platform serving millions daily. 12+ feature releases; task completion up 67%. |
-
-## ✨ A Few Things About Me
-
-- I studied **Petroleum Engineering** at Afe Babalola University before finding my way into product design
-- I'm drawn to storytelling, rhythm, and visuals that leave a mark — whether that's a user interface or a cinematic video
-- My side projects are really design-plus-engineering exercises: AI, transcription, and on-device ML are the current rabbit holes
-- I'd rather build the thing than hand off a spec for it
-
 <p align="center">
   <a href="mailto:amaechiazel@gmail.com"><b>amaechiazel@gmail.com</b></a> · <a href="https://azelamaechi.com">azelamaechi.com</a>
 </p>
