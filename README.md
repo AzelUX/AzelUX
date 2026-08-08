@@ -29,27 +29,31 @@ now, but I'm happy to walk through any of them.
 
 ### 📱 iOS
 
-🩺 **Anchor** - a health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. Every card reorders, resizes and retitles.
-
-🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
-
-⌨️ **Langkey** - a custom keyboard that translates what you type, inside any app, without leaving it.
+- **Anchor** - a health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. Every card reorders, resizes and retitles.
+- **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
+- **Langkey** - a custom keyboard that translates what you type, inside any app, without leaving it.
 
 ### 💻 macOS
 
-🖼 **Pixel Preview** - a keyboard-driven image viewer. Filmstrip, split view, full EXIF, and 18 formats including camera RAW.
+**Pixel Preview** - a keyboard-driven image viewer. Filmstrip, split view, full EXIF, and 18 formats including camera RAW.
 
-🗣 **Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill the parts that don't land yet.
+**Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill the parts that don't land yet.
 
 ### 🖥 Multi-platform
 
-🎛 **Exhibit** - eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, CRS draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
+- **Exhibit** - eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, CRS draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
 
 ### 🌐 Web
 
-🌐 **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
+- **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
+- **Falda Studio** - the studio's own site, running on Framer for now.
 
-🏢 **Falda Studio** - the studio's own site, running on Framer for now.
+## 📊 What I Write
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/languages-dark.svg" />
+  <img src="docs/languages-light.svg" alt="Language breakdown: Swift 97.31%, TypeScript 1.55%, MDX 0.81%, CSS 0.23%, Ruby 0.08%, JavaScript 0.02%" width="640" />
+</picture>
 
 ## 🧰 Stack
 
@@ -78,23 +82,23 @@ now, but I'm happy to walk through any of them.
 
 ## 💭 Philosophy
 
-🎯 **Design sits in the intersection.** Business needs, user needs, technical constraints. Design's job is to find the point where all three hold at once, so the business makes money, people get something they actually want to use, and the team can genuinely build it. Everybody wins or nobody does.
+**Design sits in the intersection.** Business needs, user needs, technical constraints. Design's job is to find the point where all three hold at once, so the business makes money, people get something they actually want to use, and the team can genuinely build it. Everybody wins or nobody does.
 
-🔨 **I build what I need.** Most of these projects started as a problem in my own week. I design the fix, then I build it.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/philosophy-venn-dark.svg" />
+  <img src="docs/philosophy-venn-light.svg" alt="Venn diagram with design at the overlap of business needs, user needs and technical constraints" width="440" />
+</picture>
 
-📐 **Design that can't be built isn't finished.** I'd rather write the SwiftUI myself than hand off a spec and hope.
+**I build what I need.** Most of these projects started as a problem in my own week. I design the fix, then I build it.
 
-🌙 **Dark mode is not optional.** Every app, every site, every time. Easier on the eyes and I'm openly biased about it.
+**Dark mode is not optional.** Every app, every site, every time. Easier on the eyes and I'm openly biased about it.
 
 ## 🤝 Connect
 
-🌐 Portfolio - [azelamaechi.com](https://azelamaechi.com)
-
-💼 LinkedIn - [azelamaechi](https://www.linkedin.com/in/azelamaechi)
-
-📄 Résumé - [PDF](https://drive.google.com/file/d/180dkXb99O3zTsQvyE5GHrqcSQ1TyZ9m2/view?usp=sharing)
-
-✉️ Email - [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com)
+- 🌐 Portfolio - [azelamaechi.com](https://azelamaechi.com)
+- 💼 LinkedIn - [azelamaechi](https://www.linkedin.com/in/azelamaechi)
+- 📄 Résumé - [PDF](https://drive.google.com/file/d/180dkXb99O3zTsQvyE5GHrqcSQ1TyZ9m2/view?usp=sharing)
+- ✉️ Email - [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com)
 
 <details>
 <summary>🎲 <b>Random facts</b></summary>
