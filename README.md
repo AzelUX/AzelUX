@@ -31,12 +31,15 @@ them.
 ### iOS
 
 🩺 **Anchor** - a health dashboard you lay out yourself, setting goals, reading steps, workouts, nutrition and sleep synced from and to Apple Health.
+
 🪜 **Ladder** - voice first tasks, lists and habits. Talk to it and it files what you said.
+
 ⌨️ **Langkey** - a custom language keyboard that translates what you type, inside any app, without leaving it.
 
 ### macOS
 
 🖼 **Pixel Preview** - a native image viewer. filmstrip, split view, full EXIF, and 18 formats including camera RAW.
+
 🗣 **Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill till it lands.
 
 ### Multi-platform
@@ -46,6 +49,7 @@ them.
 ### Web
 
 🌐 **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
+
 🏢 **Falda** - the studio's own site, currently running in Framer.
 
 ## Stack
