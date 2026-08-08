@@ -1,11 +1,11 @@
 # Hi, I'm Azel 👋
 
-📍 **Princeton, NJ** | 🎨 **Senior Product Designer** | 🛠 **Figma to SwiftUI, no handoff**
+**Princeton, NJ** | **Senior Product Designer** | **Figma to SwiftUI, no handoff**
 
 <p>
   <a href="https://azelamaechi.com"><img src="https://img.shields.io/badge/Portfolio-azelamaechi.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/azelamaechi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://drive.google.com/file/d/180dkXb99O3zTsQvyE5GHrqcSQ1TyZ9m2/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-PDF-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="docs/AzelAmaechiResume.pdf"><img src="https://img.shields.io/badge/Résumé-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="mailto:amaechiazel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- TODO Azel: fill in the handle, then delete the surrounding comment markers to switch these on -->
   <!--
@@ -21,41 +21,37 @@ Now building **Falda Studio**, designing end-to-end for early-stage founders in 
 🔭 Open to fully remote roles where design works close to engineering<br />
 ⚽ Off the clock: soccer, filmmaking and photography
 
-## 🛠 Current Projects
+## Current Projects
 
 Everything here ships under **Falda Studio**, a solo design and development studio. Designed and
 built end to end by me, from interface to architecture to shipping. These repos are private for
 now, but I'm happy to walk through any of them.
 
-### 📱 iOS
+### iOS
 
-- **Anchor** - a health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. Every card reorders, resizes and retitles.
-- **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
-- **Langkey** - a custom keyboard that translates what you type, inside any app, without leaving it.
+🩺 **Anchor** - a health dashboard you lay out yourself, reading steps, nutrition and sleep from Apple Health. Every card reorders, resizes and retitles.
 
-### 💻 macOS
+🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
 
-**Pixel Preview** - a keyboard-driven image viewer. Filmstrip, split view, full EXIF, and 18 formats including camera RAW.
+⌨️ **Langkey** - a custom keyboard that translates what you type, inside any app, without leaving it.
 
-**Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill the parts that don't land yet.
+### macOS
 
-### 🖥 Multi-platform
+🖼 **Pixel Preview** - a keyboard-driven image viewer. Filmstrip, split view, full EXIF, and 18 formats including camera RAW.
 
-- **Exhibit** - eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, CRS draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
+🗣 **Shadow Box** - a shadowing tool for language speaking practice. Listen, repeat, and drill the parts that don't land yet.
 
-### 🌐 Web
+### Multi-platform
 
-- **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
-- **Falda Studio** - the studio's own site, running on Framer for now.
+🎛 **Exhibit** - eight unrelated tools in one SwiftUI app: timer, playlist tracker, walk planner, reading log, CRS draw dashboard, image viewer, video library, and a face-clustering photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
 
-## 📊 What I Write
+### Web
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/languages-dark.svg" />
-  <img src="docs/languages-light.svg" alt="Language breakdown: Swift 97.31%, TypeScript 1.55%, MDX 0.81%, CSS 0.23%, Ruby 0.08%, JavaScript 0.02%" width="640" />
-</picture>
+🌐 **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
 
-## 🧰 Stack
+🏢 **Falda Studio** - the studio's own site, running on Framer for now.
+
+## Stack
 
 **Design**
 
@@ -80,25 +76,27 @@ now, but I'm happy to walk through any of them.
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-## 💭 Philosophy
-
-**Design sits in the intersection.** Business needs, user needs, technical constraints. Design's job is to find the point where all three hold at once, so the business makes money, people get something they actually want to use, and the team can genuinely build it. Everybody wins or nobody does.
+## Philosophy
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/philosophy-venn-dark.svg" />
-  <img src="docs/philosophy-venn-light.svg" alt="Venn diagram with design at the overlap of business needs, user needs and technical constraints" width="440" />
+  <img align="right" width="320" src="docs/philosophy-venn-light.svg" alt="Venn diagram with design at the overlap of business needs, user needs and technical constraints" />
 </picture>
 
-**I build what I need.** Most of these projects started as a problem in my own week. I design the fix, then I build it.
+**Design sits in the intersection.** Business needs, user needs, technical constraints. Design's job is to find the point where all three hold at once, so the business makes money, people get something they actually want to use, and the team can genuinely build it. Everybody wins at the end of the day.
 
-**Dark mode is not optional.** Every app, every site, every time. Easier on the eyes and I'm openly biased about it.
+**I build what I need.** Most of these projects started as a problem in my own life or my workflow. I design the fixes, then I build them.
 
-## 🤝 Connect
+**Dark mode is not optional.** Every app, every site, every time. Easier on the eyes and a better user experience.
 
-- 🌐 Portfolio - [azelamaechi.com](https://azelamaechi.com)
-- 💼 LinkedIn - [azelamaechi](https://www.linkedin.com/in/azelamaechi)
-- 📄 Résumé - [PDF](https://drive.google.com/file/d/180dkXb99O3zTsQvyE5GHrqcSQ1TyZ9m2/view?usp=sharing)
-- ✉️ Email - [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com)
+<br clear="all" />
+
+## Connect
+
+- Portfolio - [azelamaechi.com](https://azelamaechi.com)
+- LinkedIn - [azelamaechi](https://www.linkedin.com/in/azelamaechi)
+- Résumé - [PDF](docs/AzelAmaechiResume.pdf)
+- Email - [amaechiazel@gmail.com](mailto:amaechiazel@gmail.com)
 
 <details>
 <summary>🎲 <b>Random facts</b></summary>
@@ -108,7 +106,5 @@ now, but I'm happy to walk through any of them.
 🛢 I'm a **petroleum engineering graduate**. That's what I did before finding my way into the world of product design.
 
 🎬 Filmmaking and photography are the other half of my creative life. Design and tech is the digital side. This one is visual: video, sound, feeling, emotion. Same instinct, different output.
-
-🌗 I will turn on dark mode before I do anything else in a new app.
 
 </details>
