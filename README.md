@@ -14,7 +14,7 @@
   -->
 </p>
 
-Now building **Falda**, a solo design and development studio working end-to-end with early-stage founders in AI, fintech, security and health.
+Now at **Falda**, a design and development studio working end-to-end with early-stage founders in AI, fintech, security and health.
 
 🎨 Built the GC Design System from zero at Marsh McLennan. Five application teams run on it<br />
 📱 Ship native iOS and macOS apps, designed in Figma and built in SwiftUI<br />
@@ -29,7 +29,7 @@ now, but I'm happy to walk through any of them.
 
 ### iOS
 
-🩺 **Anchor** - a health dashboard for setting goals, reading steps, tracking workouts, nutrition and sleep, all synced with Apple Health.
+🩺 **Trackie** - a health dashboard for setting goals, reading steps, tracking workouts, nutrition and sleep, all synced with Apple Health.
 
 🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
 
