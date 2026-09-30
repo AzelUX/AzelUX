@@ -31,6 +31,8 @@ now, but I'm happy to walk through any of them.
 
 🩺 **Trackie** - a health dashboard for setting goals, reading steps, tracking workouts, nutrition and sleep, all synced with Apple Health.
 
+📓 **Maze** - a build journal for the apps I'm making: each project's bugs, features and thoughts, plus ideas to build or design. Type it or say it, and check it off when it's done.
+
 🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
 
 ⌨️ **Langkey** - a language keyboard that translates what you type, inside any app, without leaving it.
