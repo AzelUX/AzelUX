@@ -45,7 +45,7 @@ now, but I'm happy to walk through any of them.
 
 ### Multi-platform
 
-🎛 **Exhibit** - a suite of tools in one SwiftUI app: a timer, a YouTube playlist tracker, a weather-based walk planner, a reading log, a CRS draw dashboard and a face-identifying photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
+🎛 **Exhibit** - a suite of tools in one SwiftUI app: a timer, a YouTube playlist tracker, a weather-based walk planner, a reading log and a face-identifying photo culler. iPhone, iPad and Mac from a single codebase.
 
 🗂 **Sift** - a planner: dump everything in the Inbox, sort it into the days of your week, and work through Today. Projects and areas of life live in it too, so the bigger things get planned the same way. Type it or say it, on iPhone, iPad and Mac.
 
