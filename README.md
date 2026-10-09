@@ -47,6 +47,8 @@ now, but I'm happy to walk through any of them.
 
 🎛 **Exhibit** - a suite of tools in one SwiftUI app: a timer, a YouTube playlist tracker, a weather-based walk planner, a reading log, a CRS draw dashboard and a face-identifying photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
 
+🗂 **Sift** - a planner: dump everything in the Inbox, sort it into the days of your week, and work through Today. Type it or say it, on iPhone and iPad.
+
 ### Web
 
 🌐 **azelamaechi.com** - my portfolio. Next.js App Router, Tailwind v4, and every case study is an MDX file edited through Keystatic.
