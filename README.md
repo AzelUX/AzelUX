@@ -31,7 +31,7 @@ now, but I'm happy to walk through any of them.
 
 🩺 **Trackie** - a health dashboard for setting goals, reading steps, tracking workouts, nutrition and sleep, all synced with Apple Health.
 
-📓 **Maze** - a build journal for the apps I'm making: each project's bugs, features and thoughts, plus ideas to build or design. Type it or say it, and check it off when it's done.
+📓 **Maze** - a build journal for applications: each project's bugs, features and thoughts, plus ideas to build or design. Type it or say it, and check it off when it's done.
 
 🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
 
@@ -47,7 +47,7 @@ now, but I'm happy to walk through any of them.
 
 🎛 **Exhibit** - a suite of tools in one SwiftUI app: a timer, a YouTube playlist tracker, a weather-based walk planner, a reading log, a CRS draw dashboard and a face-identifying photo culler. iPhone, iPad, Mac and Vision Pro from a single codebase.
 
-🗂 **Sift** - a planner: dump everything in the Inbox, sort it into the days of your week, and work through Today. Type it or say it, on iPhone and iPad.
+🗂 **Sift** - a planner: dump everything in the Inbox, sort it into the days of your week, and work through Today. Projects and areas of life live in it too, so the bigger things get planned the same way. Type it or say it, on iPhone and iPad.
 
 ### Web
 
