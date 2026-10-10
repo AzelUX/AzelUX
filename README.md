@@ -33,7 +33,7 @@ now, but I'm happy to walk through any of them.
 
 📓 **Maze** - a build journal for applications: each project's bugs, features and thoughts, plus ideas to build or design. Type it or say it, and check it off when it's done.
 
-🪜 **Ladder** - voice-first tasks, lists and habits. Talk to it and it files what you said.
+🪜 **Ladder** - build skills and routines, one page each: habits for things like a language, morning and evening checklists for things like skincare.
 
 ⌨️ **Langkey** - a language keyboard that translates what you type, inside any app, without leaving it.
 
