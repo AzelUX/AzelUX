@@ -37,6 +37,10 @@ now, but I'm happy to walk through any of them.
 
 ⌨️ **Langkey** - a language keyboard that translates what you type, inside any app, without leaving it.
 
+🛒 **Shoppy** - a shopping list you can type, speak, or photograph, with a template for the usual things and a list your household shares. Live on the App Store.
+
+🚚 **GigPilot** - a delivery driver's copilot: plan the route from your itinerary, find any package in the car, and track what each shift paid.
+
 ### macOS
 
 🖼 **Pixel Preview** - a native image viewer: filmstrip, split view, full EXIF, and 18 formats including camera RAW.
